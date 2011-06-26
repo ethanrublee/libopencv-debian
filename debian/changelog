@@ -1,0 +1,8 @@
+libopencv (2.3.0+svn5676-1) unstable; urgency=low
+
+  * OpenCV 2.3.0 release candidate.
+  * using git-debuilder
+  * libopencv2.3-dev, libopencv2.3 package names.
+
+ -- Ethan Rublee <erublee@willowgarage.com>  Sat, 25 Jun 2011 13:37:34 -0700
+
